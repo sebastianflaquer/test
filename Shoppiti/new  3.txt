@@ -1,0 +1,24 @@
+Armar calendario por dia por semana, creonograma.
+Armar calernadrio de por ejemplo en el centro. tambien  es en los otros locales.
+
+Armar Calenadario, con tiendas, rubros , linea de tiempo, y dias de.
+
+Zonas:
+
+Otros Locales.
+
+Ver por donde arrancar, para eso generamos el Mapa de Tiempo.
+
+Definir todo eso para ver a que rubro vamos a atacar.
+
+Publico mas interesado en los descuentos.
+
+6 - Valor para la tienda. INteligencia de Retorno (Hacer click). Probar tipos de Promociones.
+
+Mostrar toda la info, devolver solo info, cobrar solo por la info.
+
+Freemium.
+
+
+
+
